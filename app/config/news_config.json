@@ -1,0 +1,39 @@
+{
+  "news_service": {
+    "enabled": true,
+    "bot_token": "8543784444:AAGLiduK-VBy3tbuYYJTOFrckODtot4BnRE",
+    "news_channel_id": "-1003806619557",
+    "news_channel_name": "ADAM Economic News",
+    "sharing_interval_hours": 1,
+    "max_news_per_message": 5,
+    "include_analysis": true,
+    "include_market_impact": true,
+    "filter_by_impact": ["HIGH", "MEDIUM"],
+    "filter_by_currency": ["USD", "EUR", "GBP", "JPY"],
+    "time_format": "UTC",
+    "language": "FR",
+    "auto_share": {
+      "enabled": true,
+      "share_immediately": true,
+      "share_summary_daily": true,
+      "summary_time_utc": "22:00"
+    },
+    "formatting": {
+      "use_emojis": true,
+      "use_markdown": true,
+      "include_source": true,
+      "include_timestamp": true,
+      "compact_mode": false,
+      "source_name": "ADAM Intelligence Network",
+      "hide_technical_source": true,
+      "professional_branding": true
+    },
+    "filters": {
+      "min_impact_level": "MEDIUM",
+      "exclude_weekends": false,
+      "include_forex_only": false,
+      "include_crypto": true,
+      "include_metals": true
+    }
+  }
+}

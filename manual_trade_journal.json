@@ -1,0 +1,18 @@
+[
+  {
+    "market": "BTCUSDC",
+    "trend": "HAUSSIER",
+    "stop_loss": 80455.97,
+    "take_profit": 82089.73,
+    "entry_price": 80767.96,
+    "entry_date": "2026-05-09",
+    "entry_time": "16:25:22",
+    "entry_datetime": "2026-05-09 16:25:22",
+    "exit_date": "2026-05-10",
+    "exit_time": "20:49:05",
+    "exit_datetime": "2026-05-10 20:49:05",
+    "is_profit": false,
+    "profit_loss": 80455.97,
+    "added_at": "2026-05-11T06:34:00.434672+00:00"
+  }
+]

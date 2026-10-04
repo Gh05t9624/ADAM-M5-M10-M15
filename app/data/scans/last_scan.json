@@ -1,0 +1,86 @@
+{
+  "AUDUSD": {
+    "statut": "INTERDIT",
+    "direction": "NEUTRE",
+    "score": 25,
+    "justification": "Structure non conforme aux r\u00e8gles de filtrage"
+  },
+  "EURUSD": {
+    "statut": "INTERDIT",
+    "direction": "NEUTRE",
+    "score": 25,
+    "justification": "Structure non conforme aux r\u00e8gles de filtrage"
+  },
+  "GBPUSD": {
+    "statut": "INTERDIT",
+    "direction": "NEUTRE",
+    "score": 25,
+    "justification": "Structure non conforme aux r\u00e8gles de filtrage"
+  },
+  "NZDUSD": {
+    "statut": "INTERDIT",
+    "direction": "NEUTRE",
+    "score": 25,
+    "justification": "Structure non conforme aux r\u00e8gles de filtrage"
+  },
+  "USDCAD": {
+    "statut": "INTERDIT",
+    "direction": "NEUTRE",
+    "score": 25,
+    "justification": "Structure non conforme aux r\u00e8gles de filtrage"
+  },
+  "USDCHF": {
+    "statut": "INTERDIT",
+    "direction": "NEUTRE",
+    "score": 25,
+    "justification": "Structure non conforme aux r\u00e8gles de filtrage"
+  },
+  "USDCNH": {
+    "statut": "SURVEILLANCE",
+    "direction": "HAUSSIER",
+    "score": 75,
+    "justification": "Structure valide en attente de pullback confirm\u00e9"
+  },
+  "USDJPY": {
+    "statut": "SURVEILLANCE",
+    "direction": "HAUSSIER",
+    "score": 75,
+    "justification": "Structure valide en attente de pullback confirm\u00e9"
+  },
+  "USDSEK": {
+    "statut": "INTERDIT",
+    "direction": "NEUTRE",
+    "score": 25,
+    "justification": "Structure non conforme aux r\u00e8gles de filtrage"
+  },
+  "SP500m": {
+    "statut": "SURVEILLANCE",
+    "direction": "BAISSIER",
+    "score": 75,
+    "justification": "Structure valide en attente de pullback confirm\u00e9"
+  },
+  "AMD": {
+    "statut": "SURVEILLANCE",
+    "direction": "BAISSIER",
+    "score": 75,
+    "justification": "Structure valide en attente de pullback confirm\u00e9"
+  },
+  "INTC": {
+    "statut": "INTERDIT",
+    "direction": "NEUTRE",
+    "score": 25,
+    "justification": "Structure non conforme aux r\u00e8gles de filtrage"
+  },
+  "MSFT": {
+    "statut": "INTERDIT",
+    "direction": "NEUTRE",
+    "score": 25,
+    "justification": "Structure non conforme aux r\u00e8gles de filtrage"
+  },
+  "NVDA": {
+    "statut": "INTERDIT",
+    "direction": "NEUTRE",
+    "score": 25,
+    "justification": "Structure non conforme aux r\u00e8gles de filtrage"
+  }
+}

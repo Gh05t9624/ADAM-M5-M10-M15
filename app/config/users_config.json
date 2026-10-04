@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "id": "Oumar_Thioubou",
+      "name": "A.D.A.M",
+      "chat_id": "-1003795293095",
+      "symbols": [
+        "BTCUSD",
+        "XAUUSD",
+        "XAGUSD"
+      ],
+      "timeframes": [
+        "M30",
+        "H1",
+        "H4"
+      ],
+      "enabled": true,
+      "message_interval_hours": 4,
+      "priority_symbols": ["BTCUSD", "XAUUSD"],
+      "min_score_threshold": 60
+    }
+  ]
+}
